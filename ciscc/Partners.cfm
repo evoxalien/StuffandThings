@@ -20,12 +20,14 @@ Circles of Care<br />
 Coastal Bend Wellness Center<br />
 Communities in Schools, San Antonio<br />
 Corpus Christi ISD<br />
+Ensemble Group<br />
 Flour Bluff ISD<br />
 FoodBank of Corpus Christi<br />
 Gregory Portland ISD<br />
 Kingsville ISD<br />
 Mathis ISD<br />
 Methodist Children's Home<br />
+New Life Refuge Ministries<br />
 Robstown ISD<br />
 Texas A&M University-CC, Garcia Arts & Ed. Center<br />
 Texas A&M, Kingsville<br />

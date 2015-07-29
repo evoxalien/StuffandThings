@@ -13,7 +13,7 @@
 						<tr><td valign="top" width="100%">
      <font class="tabl"><p style="TEXT-ALIGN: center">&nbsp;</p>
 <p style="TEXT-ALIGN: center">Gloria Taylor</p>
-<p style="TEXT-ALIGN: center"><a href="mailto:Gloria.Taylor-cis@ccisd.us">Gloria.Taylor-cis@ccisd.us</a>
+<p style="TEXT-ALIGN: center"><a href="mailto:GloriaTaylor@ciscb.org">GloriaTaylor@ciscb.org</a>
 <p style="TEXT-ALIGN: center">Executive Director</p>
 <p style="TEXT-ALIGN: center">361-696-4030 ext. 1</p>
 <p style="TEXT-ALIGN: center">&nbsp;</p>
@@ -23,7 +23,7 @@
         <tr>
             <td valign="top" align="center">Christa Creek&nbsp;
             <p>TEA Project Coordinator</p>
-            <p><a href="mailto:Christa.Creek-cis@ccisd.us">Christa.Creek-cis@ccisd.us</a>
+            <p><a href="mailto:ChristaCreek@ciscb.org">ChristaCreek@ciscb.org</a>
             <p>361-696-4030 ext. 2<br>&nbsp;</p>
             </td>
         </tr>
@@ -35,14 +35,15 @@
             <td width="50%" colspan="2">
             <p style="TEXT-ALIGN: center">Odilia Flores</p>
             <p style="TEXT-ALIGN: center">Full Charge Bookkeeper</p>
-            <p style="TEXT-ALIGN: center">361-696-4030 ext. 3<br />
-            &nbsp;</p>
+            <p style="TEXT-ALIGN: center"><a href="mailto:OdiliaFlores@ciscb.org">OdiliaFlores@ciscb.org</a></p>
+            <p style="TEXT-ALIGN: center">361-696-4030 ext. 3</p>
             </td>
         </tr>
         <tr>
             <td valign="top" colspan="2">
             <p style="TEXT-ALIGN: center">Erin McGowan-Silva</p>
             <p style="TEXT-ALIGN: center">CISCMS Specialist</p>
+            <p style="TEXT-ALIGN: center"><a href="mailto:ErinSilva@ciscb.org">ErinSilva@ciscb.org</a></p>
             <p style="TEXT-ALIGN: center">361-696-4030 ext. 4</p>
             </td>
         </tr>

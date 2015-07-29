@@ -57,7 +57,7 @@
             <td>Board Member</td>
         </tr>
         <tr>
-            <td>Julia Krissel</td>
+            <td>Julia Kriegel</td>
             <td>Board Member</td>
         </tr>
         <tr>
@@ -65,7 +65,7 @@
             <td>Board Member Emeritus</td>
         </tr>
         <tr>
-            <td>Jovita Martinez</td>
+            <td>Jovita Martinez<br />Auxiliary</td>
             <td>Board Member</td>
         </tr>
         <tr>
@@ -94,10 +94,6 @@
         </tr>
         <tr>
             <td>Esmer Cavazos</td>
-            <td>Board Member</td>
-        </tr>
-        <tr>
-            <td>>Kelli Coates</td>
             <td>Board Member</td>
         </tr>
         <tr>

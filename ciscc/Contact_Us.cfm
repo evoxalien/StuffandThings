@@ -19,7 +19,7 @@
 				<p>2212 Morris Street</p>
 				<p>Corpus Christi, TX 78405</p>
 				<p>Email: <a href="mailto:gloriataylor@ciscb.org">gloriataylor@ciscb.org</a></p>
-				<p>Phone: 361-696-4030 Ext. 4</p>
+				<p>Phone: 361-696-4030 Ext. 1</p>
 				<p>Fax: 361-696-4024</p>
 				<p>&nbsp;</p>
 				<p>Mailing Address:</p>
